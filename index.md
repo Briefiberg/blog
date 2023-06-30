@@ -1,5 +1,5 @@
 # Blog
-## Eaglercraft Is back
+## Eaglercraft Is Back
 ### Eaglercraft Is Back! Now On Github
 ### Play All Your Favorite Versions Online
 ### Like 1.8 1.5.2 And 1.3
