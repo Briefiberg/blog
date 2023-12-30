@@ -1,4 +1,10 @@
 # Blog
+# Android 5.1.1 Lollipop AOSP Stock Apps
+## Tired of bloated apps and google apps on your android 5 device?
+## These are stock android 5 apps for you. Compiled for Intel processor based system but can be installed on generic android phone and tablets too!
+## These apps can run on your phone with 5.1.1 too!
+## Apps from Android x86 5.1.1 RC1
+## [Download Apps](https://github.com/Briefiberg/Android5.1.1LollipopAOSPStockApps/releases/download/5.1.1/Android5.1.1LollipopAOSPStockApps.zip)
 # Android 4.4.4 KitKat AOSP Stock Apps
 ## Tired of bloated apps and google apps on your android?
 ## These are stock android apks for you. Compiled for Intel processor based system but can be installed on generic android phone and tablets too!
