@@ -1,10 +1,10 @@
 # Blog
 # Android 5.1.1 Lollipop Stuff
 ## [Download Apps](https://github.com/Briefiberg/Android5.1.1LollipopAOSPStockApps/releases/download/5.1.1/Android5.1.1LollipopAOSPStockApps.zip)
-## [Download ROM](https://github.com/Briefiberg/Android5.1.1AOSPStockROM/releases/)
+## [Download ROM](https://github.com/Briefiberg/Android5.1.1AOSPStockROM/releases/download/5.1.1/Android5.1.1AOSPStockROM.zip)
 # Android 4.4.4 KitKat Stuff
-## [Download The Apps](https://github.com/Briefiberg/Android4.4.4KitKatAOSPStockApps)
-## [Download The ROM](https://github.com/Briefiberg/Android4.4.4KitKatAOSPStockROM/releases/)
+## [Download The Apps](https://github.com/Briefiberg/Android4.4.4KitKatAOSPStockApps/releases/download/4.4.4/Android4.4.4KitKatAOSPStockApps.zip)
+## [Download The ROM](https://github.com/Briefiberg/Android4.4.4KitKatAOSPStockROM/releases/download/4.4.4/Android4.4.4AOSPStockROM.zip)
 # OnlinePhone
 ## OnlinePhone Is A Smartphone That Is Made With HTML, CSS And JS Using W3Schools Device Look, W3.CSS And More!
 ## Credits:
