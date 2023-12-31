@@ -1,16 +1,10 @@
 # Blog
-# Android 5.1.1 Lollipop AOSP Stock Apps
-## Tired of bloated apps and google apps on your android 5 device?
-## These are stock android 5 apps for you. Compiled for Intel processor based system but can be installed on generic android phone and tablets too!
-## These apps can run on your phone with 5.1.1 too!
-## Apps from Android x86 5.1.1 RC1
+# Android 5.1.1 Lollipop Stuff
 ## [Download Apps](https://github.com/Briefiberg/Android5.1.1LollipopAOSPStockApps/releases/download/5.1.1/Android5.1.1LollipopAOSPStockApps.zip)
-# Android 4.4.4 KitKat AOSP Stock Apps
-## Tired of bloated apps and google apps on your android?
-## These are stock android apks for you. Compiled for Intel processor based system but can be installed on generic android phone and tablets too!
-## These apps can run on your phone with 4.4.4 and more versions like 5.1.1 and even newer versions of android too!
-## Apps from [stock-android-apk](https://github.com/hj91/stock-android-apk)
+## [Download ROM](https://github.com/Briefiberg/Android5.1.1AOSPStockROM/releases/)
+# Android 4.4.4 KitKat Stuff
 ## [Download The Apps](https://github.com/Briefiberg/Android4.4.4KitKatAOSPStockApps)
+## [Download The ROM](https://github.com/Briefiberg/Android4.4.4KitKatAOSPStockROM/releases/)
 # OnlinePhone
 ## OnlinePhone Is A Smartphone That Is Made With HTML, CSS And JS Using W3Schools Device Look, W3.CSS And More!
 ## Credits:
